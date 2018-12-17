@@ -17,7 +17,7 @@ pip install -r requirements.pip
 ```
 After that you shold be able to work just fine.
 
-## Using
+## Usage
 To use the module you have just to import and call the `parse` method.
 
 Example:
