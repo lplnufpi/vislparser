@@ -32,4 +32,8 @@ vislparser.parse('Bom dia')
 # ]
 ```
 
-## Now GO TO WORK!
+## Installation
+You can easily install Python VISL Parser via pip, with the command:
+```
+pip install vislparser
+```
